@@ -2,6 +2,10 @@
 
 This is the example of the xd, Figma, and png to HTML CSS.
 
+## Preview
+
+[Briza](https://brisa-bhaviktrambadiya.netlify.app/)
+
 ## Dribble
 
 Use this png for design [briza](https://dribbble.com/shots/16899784-eCommerce-Homepage) 
@@ -9,7 +13,7 @@ Use this png for design [briza](https://dribbble.com/shots/16899784-eCommerce-Ho
 ## Techologies
 - HTML
 - CSS
- - Tailwind CSS
+- Tailwind CSS
 
 ## Image
 ![alt text](https://github.com/BhavikTrambadiya/Brisa-XD-or-Figma-to-HTML-CSS/blob/main//image.webp?raw=true)
